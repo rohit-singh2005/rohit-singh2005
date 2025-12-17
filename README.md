@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" style="max-height:420px; object-fit:cover;" />
+  <img src="assets/banner.png" width="100%" height="350"; object-fit:cover;" />
 </p>
 
 ## 🧑‍💻 About Me
@@ -28,7 +28,7 @@ Hi there! I'm **Your Name**, a passionate developer who loves building clean, sc
 ## Connect With Me
 
 <p align="center">
-  <img src="assets/connect.png" width="100%" />
+  <img src="assets/connect.png" width="100%" height="350" />
 </p>
 
 <p align="center">
