@@ -22,6 +22,26 @@ Hi there! I'm **Rohit Singh**, a passionate developer.
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
 </p>
 
+## Connect With Me
+
+<p align="center">
+  <img src="assets/connect.png" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rohit-ba397928b">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/rohit-singh2005">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:rohitsdeopa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://instagram.com/rohit_singh_0528">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
 
 <!--
 **rohit-singh2005/rohit-singh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
