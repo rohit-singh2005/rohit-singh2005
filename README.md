@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
+
+## About Me
+
+Hi there! I'm **Your Name**, a passionate developer.
+
+- 🎓 Education: B.Tech in Computer Science – BML Munjal University (2023–27)
+- 🤝 Always ready to collaborate on open-source projects
+
 
 <!--
 **rohit-singh2005/rohit-singh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
