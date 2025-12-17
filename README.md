@@ -1,15 +1,18 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="assets/banner.png" width="100%" style="max-height:420px; object-fit:cover;" />
 </p>
 
-## About Me
+## 🧑‍💻 About Me
 
-Hi there! I'm **Rohit Singh**, a passionate developer.
+Hi there! I'm **Your Name**, a passionate developer who loves building clean, scalable, and impactful solutions.
 
-- 🎓 Education: B.Tech in Computer Science – BML Munjal University (2023–27)
-- 🤝 Always ready to collaborate on open-source projects
+- 🎓 **Education:** B.Tech in Computer Science – BML Munjal University (2023–27)
+- 💡 Interested in Software Development, AI, and Open Source
+- 🤝 Always open to collaborate on meaningful projects
 
-## Languages & Tools
+<hr style="border:1px solid #333;">
+
+## ⚙️ Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
