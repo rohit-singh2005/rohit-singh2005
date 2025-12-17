@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi there! I'm **Your Name**, a passionate developer who loves building clean, scalable, and impactful solutions.
+Hi there! I'm **Rohit Singh**, a passionate developer who loves building clean, scalable, and impactful solutions.
 
 - 🎓 **Education:** B.Tech in Computer Science – BML Munjal University (2023–27)
 - 💡 Interested in Software Development, AI, and Open Source
