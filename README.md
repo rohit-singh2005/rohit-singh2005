@@ -4,10 +4,23 @@
 
 ## About Me
 
-Hi there! I'm **Your Name**, a passionate developer.
+Hi there! I'm **Rohit Singh**, a passionate developer.
 
 - 🎓 Education: B.Tech in Computer Science – BML Munjal University (2023–27)
 - 🤝 Always ready to collaborate on open-source projects
+
+## Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+</p>
 
 
 <!--
